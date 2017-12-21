@@ -26,9 +26,9 @@
 **Five MapReducer used**
 
 ![img1](https://github.com/chen-star/Movie-Recommendation-System/raw/master/img/img1.JPG)
-![img2]()
-![img3]()
-![img4]()
+![img2](https://github.com/chen-star/Movie-Recommendation-System/raw/master/img/img2.JPG)
+![img3](https://github.com/chen-star/Movie-Recommendation-System/raw/master/img/img3.JPG)
+![img4](https://github.com/chen-star/Movie-Recommendation-System/raw/master/img/img4.JPG)
 
 
 
