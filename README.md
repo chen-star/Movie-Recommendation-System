@@ -6,7 +6,10 @@
 
 * A form of collaborative filtering based on the similarity between items calculated using people's ratings of those items
 
-* Why using Item CF rather than user CF    * The number of users weighs more than number of products    * Item will not change frequently, lowering calculation    * Using user’s historical data, more convincing
+* Why using Item CF rather than user CF
+    * The number of users weighs more than number of products
+    * Item will not change frequently, lowering calculation
+    * Using user’s historical data, more convincing
     
 * How to implement Item CF
     * Build co-occurrence matrix
@@ -22,7 +25,7 @@
 
 **Five MapReducer used**
 
-![img1]()
+![img1](https://github.com/chen-star/Movie-Recommendation-System/raw/master/img/img1.JPG)
 ![img2]()
 ![img3]()
 ![img4]()
