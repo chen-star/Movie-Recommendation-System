@@ -45,7 +45,7 @@ public class DataDividerByUser {
 
         Configuration conf = new Configuration();
 
-        Job job = new Job();
+        Job job = Job.getInstance(conf);
         job.setMapperClass(DataDividerMapper.class);
         job.setOutputKeyClass(DataDividerReducer.class);
 
@@ -53,6 +53,7 @@ public class DataDividerByUser {
 
         job.setInputFormatClass(TextInputFormat.class);
         job.setOutputFormatClass(TextOutputFormat.class);
+
         job.setOutputKeyClass(IntWritable.class);
         job.setOutputValueClass(Text.class);
 
